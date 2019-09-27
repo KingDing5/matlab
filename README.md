@@ -1,1 +1,2 @@
-# matlab
+# read image
+I=imread('***.jpg');
